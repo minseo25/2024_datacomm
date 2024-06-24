@@ -24,4 +24,5 @@ presses ‘Q\n’.
 the client
 
 
-![image](https://github.com/minseo25/PA1/assets/52146976/9fae4631-bb2d-48c8-8f09-6bddb7c016c8)
+![image](https://github.com/minseo25/2024_datacomm/assets/52146976/ae02e1f5-038e-48b7-b51d-9a09c6645c39)
+
